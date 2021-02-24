@@ -5,7 +5,7 @@
             <tr>
                 <th>Meyssa BEDDAR</th>
                 <th>Tom BLACHON</th>
-                <th> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Matthieu SIMOES</th>
+                <th> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Matthieu SIMOES</th>
             </tr>  
             <tr>
                 <th><img src="https://user-images.githubusercontent.com/72613969/108885128-b47ef580-7607-11eb-9342-6c32a4a504f2.jpg" width="150" height="250"></td>
