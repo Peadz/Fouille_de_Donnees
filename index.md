@@ -1,14 +1,14 @@
 # Fouille de Données
 <head>
     <table CELLSPACING=0>
-        <thead>
+        <thead CELLSPACING=0>
             <tr>
                 <th>Meyssa BEDDAR</th>
                 <th>Tom BLACHON</th>
                 <th>Matthieu SIMOES</th>
             </tr>
         </thead>
-        <tbody>
+        <tbody CELLSPACING=0>
             <tr>
                 <td><img src="https://user-images.githubusercontent.com/72613969/108885128-b47ef580-7607-11eb-9342-6c32a4a504f2.jpg" width="150" height="250"></td>
                 <td><img src="https://user-images.githubusercontent.com/71490738/108892546-4ab71980-7610-11eb-8c2e-8de36b1260f0.jpg" width="200" height="250"></td>
