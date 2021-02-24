@@ -1,7 +1,7 @@
 # Fouille de Données
 <head>
-    <table CELLSPACING=0>
-        <thead CELLSPACING=0>
+    <table align="center">
+        <thead>
             <tr>
                 <th>Meyssa BEDDAR</th>
                 <th>Tom BLACHON</th>
