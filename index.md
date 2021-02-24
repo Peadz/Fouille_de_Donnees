@@ -1,6 +1,6 @@
 # Fouille de Données
 <head>
-    <table>
+    <table BORDER="1">
         <thead>
             <tr>
                 <th>Meyssa BEDDAR</th>
