@@ -5,7 +5,7 @@
             <tr>
                 <th>Meyssa BEDDAR</th>
                 <th>Tom BLACHON</th>
-                <th>Matthieu SIMOES</th>
+                <th>Matthieu SIMOESs</th>
             </tr>
         </thead>
         <tbody>
