@@ -1,16 +1,20 @@
 # Fouille de Données
 <head>
-    <table >     
-                <tr >
-                    <td align="center">Meyssa BEDDAR</th>
-                    <td align="center">Tom BLACHON</th>
-                    <td align="center">Matthieu SIMOES</th>
-                </tr>
-                <tr >
-                    <td><img src="https://user-images.githubusercontent.com/72613969/108885128-b47ef580-7607-11eb-9342-6c32a4a504f2.jpg" width="150" height="250"></td>
-                    <td><img src="https://user-images.githubusercontent.com/71490738/108892546-4ab71980-7610-11eb-8c2e-8de36b1260f0.jpg" width="200" height="250"></td>
-                    <td><img src="https://user-images.githubusercontent.com/72613969/108886341-26a40a00-7609-11eb-8c06-92a1072fd7a6.jpg" width="250" height="250"></td>
-                </tr>
+    <table>
+        <thead>
+            <tr>
+                <th colspan="2">Meyssa BEDDAR</th>
+                <th colspan="2">Tom BLACHON</th>
+                <th colspan="2">Matthieu SIMOES</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><img src="https://user-images.githubusercontent.com/72613969/108885128-b47ef580-7607-11eb-9342-6c32a4a504f2.jpg" width="150" height="250"></td>
+                <td><img src="https://user-images.githubusercontent.com/72613969/108885128-b47ef580-7607-11eb-9342-6c32a4a504f2.jpg" width="150" height="250"></td>
+                <td><img src="https://user-images.githubusercontent.com/72613969/108886341-26a40a00-7609-11eb-8c06-92a1072fd7a6.jpg" width="250" height="250"></td>
+            </tr>
+        </tbody>
     </table>
 </head>
 ### Markdown
