@@ -14,8 +14,7 @@
                 <th><img src="https://user-images.githubusercontent.com/72613969/108977210-99a09580-7688-11eb-9b35-664b658f20f2.jpg" width="200" height="250"></td>
                 <th><img src="https://user-images.githubusercontent.com/72613969/108886341-26a40a00-7609-11eb-8c06-92a1072fd7a6.jpg" width="250" height="250"></td>
             </tr>
-        </tbody>
-        
+        </tbody>        
     </table>
 </head>
 ### Markdown
