@@ -1,6 +1,8 @@
+<head>
 # Fouille de Données
 
 Page d'accueil du groupe 
+
 <table>
     <thead>
         <tr>
@@ -16,7 +18,8 @@ Page d'accueil du groupe
             <td><img src="https://user-images.githubusercontent.com/72613969/108886341-26a40a00-7609-11eb-8c06-92a1072fd7a6.jpg" width="250" height="250"></td>
         </tr>
     </tbody>
-
+</table>
+</head>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
