@@ -2,9 +2,9 @@
 <head>
     <table >
             <tr >
-                <th align="center">Meyssa BEDDAR</th>
-                <th align="center">Tom BLACHON</th>
-                <th align="center">Matthieu SIMOES</th>
+                <td align="center">Meyssa BEDDAR</th>
+                <td align="center">Tom BLACHON</th>
+                <td align="center">Matthieu SIMOES</th>
             </tr>
             <tr >
                 <td><img src="https://user-images.githubusercontent.com/72613969/108885128-b47ef580-7607-11eb-9342-6c32a4a504f2.jpg" width="150" height="250"></td>
