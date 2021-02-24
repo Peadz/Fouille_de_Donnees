@@ -3,9 +3,9 @@
     <table>
         <thead>
             <tr>
-                <th colspan="2">Meyssa BEDDAR</th>
-                <th colspan="2">Tom BLACHON</th>
-                <th colspan="2">Matthieu SIMOES</th>
+                <th>Meyssa BEDDAR</th>
+                <th>Tom BLACHON</th>
+                <th>Matthieu SIMOES</th>
             </tr>
         </thead>
         <tbody>
